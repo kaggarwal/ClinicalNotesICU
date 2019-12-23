@@ -24,3 +24,7 @@ Clone https://github.com/YerevaNN/mimic3-benchmarks and run all data generation 
 3. Lenght of Stay, run decom_los_model.py file under tf_trad.
 
     Successful for episodes for training:  22353
+    
+ 
+ ## Credits
+ The code is based on one of the popular MIMIC-3 benchmark repository https://github.com/YerevaNN/mimic3-benchmarks for the experiemntal setup and evaluation metrics.
